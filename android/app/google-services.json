@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "389951702551",
+    "project_id": "relax-ion",
+    "storage_bucket": "relax-ion.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389951702551:android:fc55ae544d09cfeccf3e52",
+        "android_client_info": {
+          "package_name": "com.supabase.app_relax_ion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4Y6-8b_Wa7xo0xylL6BnsPl4tfqqYVmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
